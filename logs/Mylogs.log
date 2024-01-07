@@ -1,0 +1,324 @@
+[INFO ] 2024-01-04 16:01:50.231 [main] netBanking - URL is opened
+[INFO ] 2024-01-04 16:01:50.527 [main] netBanking - Username Entered
+[INFO ] 2024-01-04 16:01:50.951 [main] netBanking - password Entered
+[INFO ] 2024-01-04 16:01:52.682 [main] netBanking - Clicked login
+[INFO ] 2024-01-04 16:01:52.702 [main] netBanking - Test Passed
+[INFO ] 2024-01-04 19:02:16.082 [main] netBanking - URL is opened
+[INFO ] 2024-01-04 19:02:16.627 [main] netBanking - Username Entered
+[INFO ] 2024-01-04 19:02:16.985 [main] netBanking - password Entered
+[INFO ] 2024-01-04 19:02:18.666 [main] netBanking - Clicked login
+[INFO ] 2024-01-04 19:02:18.690 [main] netBanking - Test Passed
+[INFO ] 2024-01-04 23:25:38.831 [main] netBanking - URL is opened
+[INFO ] 2024-01-04 23:25:39.070 [main] netBanking - Username Entered
+[INFO ] 2024-01-04 23:25:39.187 [main] netBanking - password Entered
+[INFO ] 2024-01-04 23:25:40.715 [main] netBanking - Clicked login
+[INFO ] 2024-01-04 23:25:40.731 [main] netBanking - Test Passed
+[INFO ] 2024-01-04 23:26:55.286 [main] netBanking - URL is opened
+[INFO ] 2024-01-04 23:26:56.194 [main] netBanking - Username Entered
+[INFO ] 2024-01-04 23:26:56.301 [main] netBanking - password Entered
+[INFO ] 2024-01-04 23:26:58.146 [main] netBanking - Clicked login
+[INFO ] 2024-01-04 23:26:58.181 [main] netBanking - Test Passed
+[INFO ] 2024-01-04 23:28:11.371 [main] netBanking - URL is opened
+[INFO ] 2024-01-04 23:28:12.841 [main] netBanking - Username Entered
+[INFO ] 2024-01-04 23:28:12.970 [main] netBanking - password Entered
+[INFO ] 2024-01-04 23:28:20.001 [main] netBanking - Clicked login
+[INFO ] 2024-01-04 23:28:20.032 [main] netBanking - Test Passed
+[INFO ] 2024-01-05 14:03:52.806 [main] netBanking - URL is opened
+[INFO ] 2024-01-05 14:03:58.274 [main] netBanking - Username Entered
+[INFO ] 2024-01-05 14:03:59.329 [main] netBanking - password Entered
+[INFO ] 2024-01-05 14:04:05.208 [main] netBanking - Clicked login
+[INFO ] 2024-01-05 14:04:05.807 [main] netBanking - Test Passed
+[INFO ] 2024-01-05 15:47:28.684 [main] netBanking - URL is opened
+[INFO ] 2024-01-05 15:47:29.289 [main] netBanking - Username Entered
+[INFO ] 2024-01-05 15:47:29.539 [main] netBanking - password Entered
+[INFO ] 2024-01-05 15:47:30.994 [main] netBanking - Clicked login
+[INFO ] 2024-01-05 15:47:31.688 [main] netBanking - Test Failed
+[INFO ] 2024-01-05 15:49:10.431 [main] netBanking - URL is opened
+[INFO ] 2024-01-05 15:49:10.752 [main] netBanking - Username Entered
+[INFO ] 2024-01-05 15:49:10.913 [main] netBanking - password Entered
+[INFO ] 2024-01-05 15:49:12.366 [main] netBanking - Clicked login
+[INFO ] 2024-01-05 15:49:12.686 [main] netBanking - Test Failed
+[INFO ] 2024-01-05 15:51:38.131 [main] netBanking - URL is opened
+[INFO ] 2024-01-05 15:51:38.477 [main] netBanking - Username Entered
+[INFO ] 2024-01-05 15:51:38.634 [main] netBanking - password Entered
+[INFO ] 2024-01-05 15:51:39.859 [main] netBanking - Clicked login
+[INFO ] 2024-01-05 15:51:40.186 [main] netBanking - Test Failed
+[INFO ] 2024-01-05 15:59:17.848 [main] netBanking - URL is opened
+[INFO ] 2024-01-05 15:59:18.186 [main] netBanking - Username Entered
+[INFO ] 2024-01-05 15:59:18.376 [main] netBanking - password Entered
+[INFO ] 2024-01-05 15:59:19.650 [main] netBanking - Clicked login
+[INFO ] 2024-01-05 19:34:50.258 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:34:50.363 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:34:51.749 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:34:56.133 [main] netBanking - login passed
+[INFO ] 2024-01-05 19:34:57.201 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:34:57.464 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:34:57.877 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:35:03.102 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:35:03.206 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:35:03.732 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:35:08.597 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:35:08.719 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:35:09.186 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:49:53.069 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:49:53.170 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:49:55.150 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:49:59.468 [main] netBanking - login passed
+[INFO ] 2024-01-05 19:50:00.576 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:50:00.822 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:50:01.670 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:50:06.318 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:50:06.553 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:50:06.993 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 19:50:11.906 [main] netBanking - Username provided
+[INFO ] 2024-01-05 19:50:12.005 [main] netBanking - password provided
+[INFO ] 2024-01-05 19:50:12.414 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 23:13:41.476 [main] netBanking - Username provided
+[INFO ] 2024-01-05 23:13:41.627 [main] netBanking - password provided
+[INFO ] 2024-01-05 23:13:43.586 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 23:13:49.422 [main] netBanking - login passed
+[INFO ] 2024-01-05 23:13:50.064 [main] netBanking - Username provided
+[INFO ] 2024-01-05 23:13:50.148 [main] netBanking - password provided
+[INFO ] 2024-01-05 23:13:50.595 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 23:13:55.723 [main] netBanking - Username provided
+[INFO ] 2024-01-05 23:13:55.837 [main] netBanking - password provided
+[INFO ] 2024-01-05 23:13:56.223 [main] netBanking - Clicked login button
+[INFO ] 2024-01-05 23:14:01.275 [main] netBanking - Username provided
+[INFO ] 2024-01-05 23:14:01.714 [main] netBanking - password provided
+[INFO ] 2024-01-05 23:14:02.143 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:12:18.813 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:12:19.281 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:12:19.656 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:12:21.127 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:12:24.440 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 01:12:32.092 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 01:12:32.176 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 01:12:32.428 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 01:12:35.632 [main] netBanking - country entered
+[INFO ] 2024-01-06 01:12:35.724 [main] netBanking - city entered
+[INFO ] 2024-01-06 01:12:35.831 [main] netBanking - state entered
+[INFO ] 2024-01-06 01:12:35.954 [main] netBanking - pin entered
+[INFO ] 2024-01-06 01:12:36.076 [main] netBanking - phone entered
+[INFO ] 2024-01-06 01:12:36.228 [main] netBanking - email entered
+[INFO ] 2024-01-06 01:12:36.333 [main] netBanking - password entered
+[INFO ] 2024-01-06 01:12:36.505 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 01:16:03.384 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:16:03.850 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:16:04.166 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:16:05.584 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:16:08.769 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 01:16:11.398 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 01:16:11.626 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 01:16:11.878 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 01:16:15.105 [main] netBanking - country entered
+[INFO ] 2024-01-06 01:16:15.217 [main] netBanking - city entered
+[INFO ] 2024-01-06 01:16:15.322 [main] netBanking - state entered
+[INFO ] 2024-01-06 01:16:15.447 [main] netBanking - pin entered
+[INFO ] 2024-01-06 01:16:15.568 [main] netBanking - phone entered
+[INFO ] 2024-01-06 01:16:15.703 [main] netBanking - email entered
+[INFO ] 2024-01-06 01:16:15.785 [main] netBanking - password entered
+[INFO ] 2024-01-06 01:16:15.888 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 01:16:54.208 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:16:54.667 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:16:54.861 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:16:56.310 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:16:59.640 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 01:17:04.016 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 01:17:04.121 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 01:17:04.390 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 01:17:07.609 [main] netBanking - country entered
+[INFO ] 2024-01-06 01:17:07.704 [main] netBanking - city entered
+[INFO ] 2024-01-06 01:17:07.814 [main] netBanking - state entered
+[INFO ] 2024-01-06 01:17:07.953 [main] netBanking - pin entered
+[INFO ] 2024-01-06 01:17:08.081 [main] netBanking - phone entered
+[INFO ] 2024-01-06 01:17:08.236 [main] netBanking - email entered
+[INFO ] 2024-01-06 01:17:08.345 [main] netBanking - password entered
+[INFO ] 2024-01-06 01:17:10.480 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 01:19:33.225 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:19:33.723 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:19:34.034 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:19:35.436 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:19:38.642 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 01:19:42.892 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 01:19:42.966 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 01:19:43.236 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 01:19:46.470 [main] netBanking - country entered
+[INFO ] 2024-01-06 01:19:46.571 [main] netBanking - city entered
+[INFO ] 2024-01-06 01:19:46.684 [main] netBanking - state entered
+[INFO ] 2024-01-06 01:19:46.820 [main] netBanking - pin entered
+[INFO ] 2024-01-06 01:19:46.935 [main] netBanking - phone entered
+[INFO ] 2024-01-06 01:19:47.085 [main] netBanking - email entered
+[INFO ] 2024-01-06 01:19:47.195 [main] netBanking - password entered
+[INFO ] 2024-01-06 01:19:48.208 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 01:21:15.625 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:21:16.076 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:21:16.300 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:21:17.719 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:21:20.927 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 01:21:23.671 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 01:21:23.954 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 01:21:24.207 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 01:21:27.414 [main] netBanking - country entered
+[INFO ] 2024-01-06 01:21:27.520 [main] netBanking - city entered
+[INFO ] 2024-01-06 01:21:27.636 [main] netBanking - state entered
+[INFO ] 2024-01-06 01:21:27.762 [main] netBanking - pin entered
+[INFO ] 2024-01-06 01:21:27.865 [main] netBanking - phone entered
+[INFO ] 2024-01-06 01:21:28.000 [main] netBanking - email entered
+[INFO ] 2024-01-06 01:21:28.106 [main] netBanking - password entered
+[INFO ] 2024-01-06 01:21:30.274 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 01:21:33.321 [main] netBanking - Test is Passed
+[INFO ] 2024-01-06 01:23:42.996 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:23:43.411 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 01:23:43.553 [main] netBanking - password Entered
+[INFO ] 2024-01-06 01:23:45.425 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 01:23:45.462 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 01:23:55.932 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:23:58.232 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:23:58.378 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:24:00.577 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:24:06.232 [main] netBanking - login passed
+[INFO ] 2024-01-06 01:24:07.111 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:24:07.221 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:24:07.638 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:24:13.651 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:24:13.758 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:24:14.232 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:24:19.445 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:24:19.547 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:24:19.994 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:24:34.171 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 01:24:34.477 [main] netBanking - Username provided
+[INFO ] 2024-01-06 01:24:34.656 [main] netBanking - password provided
+[INFO ] 2024-01-06 01:24:35.869 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 01:24:39.122 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 01:24:49.017 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 01:24:49.099 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 01:24:49.343 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 01:24:52.590 [main] netBanking - country entered
+[INFO ] 2024-01-06 01:24:52.702 [main] netBanking - city entered
+[INFO ] 2024-01-06 01:24:52.805 [main] netBanking - state entered
+[INFO ] 2024-01-06 01:24:52.937 [main] netBanking - pin entered
+[INFO ] 2024-01-06 01:24:53.082 [main] netBanking - phone entered
+[INFO ] 2024-01-06 01:24:53.213 [main] netBanking - email entered
+[INFO ] 2024-01-06 01:24:53.313 [main] netBanking - password entered
+[INFO ] 2024-01-06 01:24:54.984 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 01:24:58.014 [main] netBanking - Test is Passed
+[INFO ] 2024-01-06 13:41:55.389 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 13:41:57.234 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 13:41:57.370 [main] netBanking - password Entered
+[INFO ] 2024-01-06 13:41:59.704 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 13:41:59.721 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 13:42:11.172 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 13:42:11.462 [main] netBanking - Username provided
+[INFO ] 2024-01-06 13:42:11.575 [main] netBanking - password provided
+[INFO ] 2024-01-06 13:42:13.056 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 13:42:16.219 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 13:42:18.955 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 13:42:19.224 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 13:42:19.463 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 13:42:22.636 [main] netBanking - country entered
+[INFO ] 2024-01-06 13:42:22.741 [main] netBanking - city entered
+[INFO ] 2024-01-06 13:42:22.850 [main] netBanking - state entered
+[INFO ] 2024-01-06 13:42:22.963 [main] netBanking - pin entered
+[INFO ] 2024-01-06 13:42:23.065 [main] netBanking - phone entered
+[INFO ] 2024-01-06 13:42:23.183 [main] netBanking - email entered
+[INFO ] 2024-01-06 13:42:23.262 [main] netBanking - password entered
+[INFO ] 2024-01-06 13:42:23.949 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 13:45:33.772 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 13:45:34.168 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 13:45:34.407 [main] netBanking - password Entered
+[INFO ] 2024-01-06 13:45:35.693 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 13:45:35.714 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 13:45:44.224 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 13:45:44.549 [main] netBanking - Username provided
+[INFO ] 2024-01-06 13:45:44.668 [main] netBanking - password provided
+[INFO ] 2024-01-06 13:45:46.582 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 13:45:49.734 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 13:45:52.340 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 13:45:52.422 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 13:45:53.158 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 13:45:56.271 [main] netBanking - country entered
+[INFO ] 2024-01-06 13:45:56.366 [main] netBanking - city entered
+[INFO ] 2024-01-06 13:45:56.463 [main] netBanking - state entered
+[INFO ] 2024-01-06 13:45:56.565 [main] netBanking - pin entered
+[INFO ] 2024-01-06 13:45:56.680 [main] netBanking - phone entered
+[INFO ] 2024-01-06 13:45:56.846 [main] netBanking - email entered
+[INFO ] 2024-01-06 13:45:56.941 [main] netBanking - password entered
+[INFO ] 2024-01-06 13:45:58.945 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 13:46:01.979 [main] netBanking - Test is Passed
+[INFO ] 2024-01-06 13:55:40.575 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 13:55:43.095 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 13:55:43.224 [main] netBanking - password Entered
+[INFO ] 2024-01-06 13:55:46.132 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 13:55:46.249 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 13:56:10.181 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 13:56:13.153 [main] netBanking - Username provided
+[INFO ] 2024-01-06 13:56:13.282 [main] netBanking - password provided
+[INFO ] 2024-01-06 13:56:15.549 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 13:56:18.728 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 13:56:21.158 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 13:56:21.777 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 13:56:22.029 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 13:56:25.211 [main] netBanking - country entered
+[INFO ] 2024-01-06 13:56:25.303 [main] netBanking - city entered
+[INFO ] 2024-01-06 13:56:25.414 [main] netBanking - state entered
+[INFO ] 2024-01-06 13:56:25.572 [main] netBanking - pin entered
+[INFO ] 2024-01-06 13:56:25.726 [main] netBanking - phone entered
+[INFO ] 2024-01-06 13:56:25.909 [main] netBanking - email entered
+[INFO ] 2024-01-06 13:56:25.990 [main] netBanking - password entered
+[INFO ] 2024-01-06 13:56:28.193 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 13:56:31.351 [main] netBanking - Test is Passed
+[INFO ] 2024-01-06 14:10:38.783 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 14:10:39.371 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 14:10:39.692 [main] netBanking - password Entered
+[INFO ] 2024-01-06 14:10:42.273 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 14:10:42.293 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 14:10:53.011 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 14:10:53.313 [main] netBanking - Username provided
+[INFO ] 2024-01-06 14:10:53.430 [main] netBanking - password provided
+[INFO ] 2024-01-06 14:10:54.870 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 14:10:57.989 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 14:11:01.358 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 14:11:01.655 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 14:11:01.910 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 14:11:05.021 [main] netBanking - country entered
+[INFO ] 2024-01-06 14:11:05.127 [main] netBanking - city entered
+[INFO ] 2024-01-06 14:11:05.236 [main] netBanking - state entered
+[INFO ] 2024-01-06 14:11:05.365 [main] netBanking - pin entered
+[INFO ] 2024-01-06 14:11:05.478 [main] netBanking - phone entered
+[INFO ] 2024-01-06 14:11:05.607 [main] netBanking - email entered
+[INFO ] 2024-01-06 14:11:05.699 [main] netBanking - password entered
+[INFO ] 2024-01-06 14:11:07.328 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 14:11:10.397 [main] netBanking - Test is Passed
+[INFO ] 2024-01-06 14:15:49.963 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 14:15:50.388 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 14:15:50.652 [main] netBanking - password Entered
+[INFO ] 2024-01-06 14:15:53.082 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 14:15:53.101 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 14:16:03.511 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 14:16:06.309 [main] netBanking - Username provided
+[INFO ] 2024-01-06 14:16:06.404 [main] netBanking - password provided
+[INFO ] 2024-01-06 14:16:10.915 [main] netBanking - Clicked login button
+[INFO ] 2024-01-06 14:16:14.056 [main] netBanking - Clicked on Addnewcustomer
+[INFO ] 2024-01-06 14:16:17.414 [main] netBanking - Entered the newcustomername
+[INFO ] 2024-01-06 14:16:18.000 [main] netBanking - Gender male is selected
+[INFO ] 2024-01-06 14:16:18.233 [main] netBanking - dob is selected
+[INFO ] 2024-01-06 14:16:21.362 [main] netBanking - country entered
+[INFO ] 2024-01-06 14:16:21.458 [main] netBanking - city entered
+[INFO ] 2024-01-06 14:16:21.540 [main] netBanking - state entered
+[INFO ] 2024-01-06 14:16:21.646 [main] netBanking - pin entered
+[INFO ] 2024-01-06 14:16:21.753 [main] netBanking - phone entered
+[INFO ] 2024-01-06 14:16:21.873 [main] netBanking - email entered
+[INFO ] 2024-01-06 14:16:21.952 [main] netBanking - password entered
+[INFO ] 2024-01-06 14:16:24.128 [main] netBanking - clicked submit
+[INFO ] 2024-01-06 14:16:27.159 [main] netBanking - Test is Passed
+[INFO ] 2024-01-06 20:01:13.502 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 20:01:14.481 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 20:01:15.230 [main] netBanking - password Entered
+[INFO ] 2024-01-06 20:01:19.290 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 20:01:19.302 [main] netBanking - Test Passed
+[INFO ] 2024-01-06 20:02:57.474 [main] netBanking - URL is opened
+[INFO ] 2024-01-06 20:02:57.712 [main] netBanking - Username Entered
+[INFO ] 2024-01-06 20:02:57.788 [main] netBanking - password Entered
+[INFO ] 2024-01-06 20:02:59.739 [main] netBanking - Clicked login
+[WARN ] 2024-01-06 20:02:59.753 [main] netBanking - Test Passed
